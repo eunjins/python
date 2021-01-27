@@ -1,3 +1,6 @@
+# 이 코드의 짧은 버전: separate_simple.py
+# 나머지 연산자 사용
+
 number = input("정수 입력> ")
 number = int(number)
 
